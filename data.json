@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Mow the lawn",
+        "description": "You shall mow the lawn",
+        "tag": "chores",
+        "isdone": "DONE"
+    },
+    {
+        "name": "Play guitar",
+        "description": "You shall play guitar",
+        "tag": "chores",
+        "isdone": "TODO"
+    }
+]
